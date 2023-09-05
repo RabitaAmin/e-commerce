@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "purchased_products": [1, 2, 5],
+      "reviews_written": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "purchased_products": [3, 4],
+      "reviews_written": [6]
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice@example.com",
+      "purchased_products": [1, 4],
+      "reviews_written": [4]
+    },
+    {
+      "id": 4,
+      "name": "Bob Anderson",
+      "email": "bob@example.com",
+      "purchased_products": [2, 5],
+      "reviews_written": []
+    }
+  ]
+  
