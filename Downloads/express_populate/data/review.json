@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "productId": 1,
+        "rating": 4.5,
+        "comment": "Great laptop, fast performance."
+    },
+    {
+        "id": 2,
+        "productId": 1,
+        "rating": 3.8,
+        "comment": "Battery life could be better."
+    },
+    {
+        "id": 3,
+        "productId": 1,
+        "rating": 5.0,
+        "comment": "Sleek design and powerful hardware."
+    },
+    {
+        "id": 4,
+        "productId": 2,
+        "rating": 4.0,
+        "comment": "Comfortable fit, nice color."
+    },
+    {
+        "id": 5,
+        "productId": 2,
+        "rating": 3.5,
+        "comment": "Fabric quality could be improved."
+    },
+    {
+        "id": 6,
+        "productId": 3,
+        "rating": 4.7,
+        "comment": "Excellent camera and performance."
+    },
+    {
+        "id": 7,
+        "productId": 4,
+        "rating": 4.2,
+        "comment": "Stylish sneakers, comfortable for walking."
+    }
+]

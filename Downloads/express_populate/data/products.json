@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 999.99,
+        "category": "Electronics",
+        "brand": "Brand A",
+        "color": "Silver",
+        "size": "15-inch",
+        "rating": 4.2,
+        "reviews": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Mobile",
+        "price": 0,
+        "category": "Electronics",
+        "brand": "Brand C",
+        "color": "Silver",
+        "size": "8-inch",
+        "rating": 4.1,
+        "reviews": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Laptop",
+        "price": 600.99,
+        "category": "Electronics",
+        "brand": "Brand C",
+        "color": "Silver",
+        "size": "8-inch",
+        "rating": 4.1,
+        "reviews": []
+    },
+    {
+        "name": "Laptop",
+        "price": 999.99,
+        "category": "Electronics",
+        "brand": "Brand A",
+        "color": "Silver",
+        "size": "15-inch",
+        "rating": 3.5,
+        "reviews": [
+            1,
+            2,
+            3
+        ],
+        "id": 5
+    },
+    {
+        "name": "Mobile",
+        "price": 700.99,
+        "category": "Electronics",
+        "brand": "Brand C",
+        "color": "Silver",
+        "size": "8-inch",
+        "rating": 4.1,
+        "reviews": [
+            1,
+            2
+        ],
+        "id": 6
+    }
+]
